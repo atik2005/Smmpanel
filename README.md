@@ -1,2 +1,0 @@
-# Smmpanel
-Smmpanel  atuo pay
